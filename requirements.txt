@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+playwright
+requests
+beautifulsoup4
+pandas
+httpx
+openai
+python-multipart
+python-dotenv
+pypdf
+matplotlib
+Pillow
+opencv-python
